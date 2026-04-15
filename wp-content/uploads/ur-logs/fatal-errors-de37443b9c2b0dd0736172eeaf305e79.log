@@ -1,0 +1,16 @@
+2026-04-15T01:10:34-04:00 CRITICAL Out of memory (allocated 46137344 bytes) (tried to allocate 114688 bytes) in /workspaces/UX221-FinalExam/.wordpress/wp-admin/menu.php on line 395
+
+2026-04-15T01:10:34-04:00 CRITICAL Out of memory (allocated 46137344 bytes) (tried to allocate 114688 bytes) in /workspaces/UX221-FinalExam/.wordpress/wp-admin/menu.php on line 395
+
+2026-04-15T01:10:34-04:00 CRITICAL Out of memory (allocated 46137344 bytes) (tried to allocate 114688 bytes) in /workspaces/UX221-FinalExam/.wordpress/wp-admin/menu.php on line 395
+
+2026-04-15T01:10:34-04:00 CRITICAL Out of memory (allocated 46137344 bytes) (tried to allocate 114688 bytes) in /workspaces/UX221-FinalExam/.wordpress/wp-admin/menu.php on line 395
+
+2026-04-15T01:38:36-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/UX221-FinalExam/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/UX221-FinalExam/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-15T01:38:36-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/UX221-FinalExam/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/UX221-FinalExam/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-15T01:38:36-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/UX221-FinalExam/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/UX221-FinalExam/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
+2026-04-15T01:38:36-04:00 CRITICAL Cannot redeclare _load_textdomain() (previously declared in /workspaces/UX221-FinalExam/.wordpress/wp-content/mu-plugins/one-click-child-theme/one-click-child-theme.php:40) in /workspaces/UX221-FinalExam/.wordpress/wp-content/plugins/one-click-child-theme-main/one-click-child-theme.php on line 40
+
